@@ -1,0 +1,31 @@
+{
+  "name": "clean-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allex-24/clean-functions.git"
+  },
+  "author": "Allex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Allex-24/clean-functions/issues"
+  },
+  "homepage": "https://github.com/Allex-24/clean-functions#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.22.9",
+    "@babel/core": "^7.22.9",
+    "@babel/preset-env": "^7.22.9",
+    "babel-jest": "^29.6.1",
+    "eslint": "^8.45.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "jest": "^29.6.1"
+  },
+  "dependencies": {
+    "core-js": "^3.31.1"
+  }
+}
