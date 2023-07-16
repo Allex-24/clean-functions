@@ -1,4 +1,4 @@
-import { getHealthStatus } from '../index';
+import getHealthStatus from '../index';
 
 describe('getHealthStatus', () => {
   test('should return "healthy" when health is more than 50', () => {
